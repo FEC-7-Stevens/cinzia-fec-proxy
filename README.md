@@ -1,4 +1,4 @@
-# Foodie
+# Foody
 > This webpage is inspired by Zagat.com website and their restaurant information page.
 Example: https://www.zagat.com/r/smoque-bbq-chicago
 
